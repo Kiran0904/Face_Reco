@@ -12,7 +12,7 @@ LBPH Opencv(face recognition)
 
 
 Features:
-Student managemeny system(save data,delete data,update data)
+Student management system(save data,delete data,update data)
 Train Photo Samples
 Takes attendance with face detection
 Attendance report(Mysql database)
